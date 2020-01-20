@@ -6,7 +6,7 @@
         "commit": "4e7b9b38b8d5d3ec44d43373b8e263f50ead87a3"
     },
     "email": "ubamba98@gmail.com",
-    "startedAt": "2020-01-20T08:44:21.248355",
+    "startedAt": "2020-01-20T08:58:10.892468",
     "host": "ccw-iclr",
     "username": "ubamba98",
     "executable": "/home/ubamba98/anaconda3/bin/python",
@@ -25,5 +25,5 @@
     "mode": "run",
     "name": "efficentnet-b3-765",
     "project": "droughtwatch",
-    "heartbeatAt": "2020-01-20T08:57:27.146640"
+    "heartbeatAt": "2020-01-20T08:58:44.034037"
 }
