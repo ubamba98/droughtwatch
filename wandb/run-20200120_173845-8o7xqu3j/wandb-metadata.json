@@ -3,10 +3,10 @@
     "program": "<python with no main file>",
     "git": {
         "remote": "https://github.com/ubamba98/droughtwatch",
-        "commit": "4e7b9b38b8d5d3ec44d43373b8e263f50ead87a3"
+        "commit": "7a8b4f9bfe3d9669c065668de42ed107ba3e0475"
     },
     "email": "ubamba98@gmail.com",
-    "startedAt": "2020-01-20T08:58:10.892468",
+    "startedAt": "2020-01-20T17:39:00.660637",
     "host": "ccw-iclr",
     "username": "ubamba98",
     "executable": "/home/ubamba98/anaconda3/bin/python",
@@ -18,12 +18,12 @@
     "cuda": "10.0.130",
     "args": [
         "-f",
-        "/home/ubamba98/.local/share/jupyter/runtime/kernel-f86872c7-f93b-4579-ae59-db40fc8ec9c5.json"
+        "/home/ubamba98/.local/share/jupyter/runtime/kernel-24d294e6-6e79-4baf-816f-44f684d7cf4e.json"
     ],
     "state": "running",
     "jobType": null,
     "mode": "run",
     "name": "efficentnet-b3-765",
-    "project": "droughtwatch",
-    "heartbeatAt": "2020-01-20T08:58:44.034037"
+    "project": "dr-challenge",
+    "heartbeatAt": "2020-01-20T17:40:05.874694"
 }
