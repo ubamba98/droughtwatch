@@ -38,7 +38,7 @@ conda==4.8.1
 configparser==4.0.2
 contextlib2==0.6.0.post1
 crc32c==2.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 cython==0.29.14
 cytoolz==0.10.1
